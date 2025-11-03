@@ -1,4 +1,2 @@
-# EARL
-Submit to ESWA
-
-More code details will be shown when the paper is accepted.
+# LGEAC
+Local geometry-enhanced anchor learning for multi-view clustering (LGEAC) neurocomputing 
